@@ -1,3 +1,6 @@
+From, 
+* https://www.freecodecamp.org/news/how-to-add-support-for-gift-cards-on-your-ethereum-based-dapps-6389959265ba/
+
 # GiftCardIssuer (WIP)
 A smart contract that allows issuing and accepting gift card payments
 
